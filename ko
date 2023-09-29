@@ -51,4 +51,4 @@ PRIVATEKEY=""
 
 RECORD=""
 
-snarkos developer deploy "${APPNAME}.aleo" --private-key "${PRIVATEKEY}" --query "https://vm.aleo.org/api
+snarkos developer deploy "${APPNAME}.aleo" 
