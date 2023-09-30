@@ -51,4 +51,3 @@ PRIVATEKEY=""
 
 RECORD=""
 
-snarkos developer deploy "${APPNAME}.aleo" 
